@@ -1,1 +1,45 @@
-<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8"/>
+<tv generator-info-name="youtube-live-epg" generator-info-url="https://github.com/dp247/YouTubeToM3U8">
+  <channel id="csa.tt">
+    <display-name lang="en">The Bald Man Channel</display-name>
+  </channel>
+  <programme channel="csa.tt" start="20250630140000 +0100" stop="20250630170000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250630170000 +0100" stop="20250630200000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250630200000 +0100" stop="20250630230000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250630230000 +0100" stop="20250701020000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250701020000 +0100" stop="20250701050000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250701050000 +0100" stop="20250701080000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250701080000 +0100" stop="20250701110000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250701110000 +0100" stop="20250701140000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+</tv>
