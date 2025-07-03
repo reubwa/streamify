@@ -2,44 +2,44 @@
   <channel id="csa.tt">
     <display-name lang="en">The Bald Man Channel</display-name>
   </channel>
-  <programme channel="csa.tt" start="20250703180000 +0100" stop="20250703210000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
-  </programme>
   <programme channel="csa.tt" start="20250703210000 +0100" stop="20250704000000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250704000000 +0100" stop="20250704030000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250704030000 +0100" stop="20250704060000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250704060000 +0100" stop="20250704090000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250704090000 +0100" stop="20250704120000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250704120000 +0100" stop="20250704150000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250704150000 +0100" stop="20250704180000 +0100">
-    <title lang="en">Twitch</title>
-    <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
-    <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250704180000 +0100" stop="20250704210000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
 </tv>
