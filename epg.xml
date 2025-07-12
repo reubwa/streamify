@@ -2,11 +2,6 @@
   <channel id="csa.tt">
     <display-name lang="en">The Bald Man Channel</display-name>
   </channel>
-  <programme channel="csa.tt" start="20250711210000 +0100" stop="20250712000000 +0100">
-    <title lang="en">callumspazmoidadams</title>
-    <desc lang="en">Callum's Corner Forever!</desc>
-    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
-  </programme>
   <programme channel="csa.tt" start="20250712000000 +0100" stop="20250712030000 +0100">
     <title lang="en">callumspazmoidadams</title>
     <desc lang="en">Callum's Corner Forever!</desc>
@@ -38,6 +33,11 @@
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
   </programme>
   <programme channel="csa.tt" start="20250712180000 +0100" stop="20250712210000 +0100">
+    <title lang="en">callumspazmoidadams</title>
+    <desc lang="en">Callum's Corner Forever!</desc>
+    <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
+  </programme>
+  <programme channel="csa.tt" start="20250712210000 +0100" stop="20250713000000 +0100">
     <title lang="en">callumspazmoidadams</title>
     <desc lang="en">Callum's Corner Forever!</desc>
     <icon src="https://static-cdn.jtvnw.net/jtv_user_pictures/9514d3a9-788a-4fdb-84b8-85d3f968fd20-profile_image-300x300.png"/>
