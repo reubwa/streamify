@@ -2,42 +2,42 @@
   <channel id="csa.tt">
     <display-name lang="en">The Bald Man Channel</display-name>
   </channel>
-  <programme channel="csa.tt" start="20250720210000 +0100" stop="20250721000000 +0100">
+  <programme channel="csa.tt" start="20250721010000 +0100" stop="20250721040000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721000000 +0100" stop="20250721030000 +0100">
+  <programme channel="csa.tt" start="20250721040000 +0100" stop="20250721070000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721030000 +0100" stop="20250721060000 +0100">
+  <programme channel="csa.tt" start="20250721070000 +0100" stop="20250721100000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721060000 +0100" stop="20250721090000 +0100">
+  <programme channel="csa.tt" start="20250721100000 +0100" stop="20250721130000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721090000 +0100" stop="20250721120000 +0100">
+  <programme channel="csa.tt" start="20250721130000 +0100" stop="20250721160000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721120000 +0100" stop="20250721150000 +0100">
+  <programme channel="csa.tt" start="20250721160000 +0100" stop="20250721190000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721150000 +0100" stop="20250721180000 +0100">
+  <programme channel="csa.tt" start="20250721190000 +0100" stop="20250721220000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
   </programme>
-  <programme channel="csa.tt" start="20250721180000 +0100" stop="20250721210000 +0100">
+  <programme channel="csa.tt" start="20250721220000 +0100" stop="20250722010000 +0100">
     <title lang="en">Twitch</title>
     <desc lang="en">Twitch is the world's leading video platform and community for gamers.</desc>
     <icon src="https://static-cdn.jtvnw.net/ttv-static-metadata/twitch_logo3.jpg"/>
